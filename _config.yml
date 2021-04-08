@@ -2,7 +2,7 @@ title:              Evangelización Ame
 email:              aministerioevangelizacion@gmail.com
 description:        Somos una comunidad de laicos que a partir del encuentro con Jesús resucitado, Señor y Dios nuestro, tratamos de responder a nuestro compromiso como bautizados a nivel personal y comunitario sirviendo a los demás.
 author:             Danny Pérez
-baseurl:            "/evangelizacioname-dev"
+baseurl:            "/"
 url:                "http://evangelizacioname.com/"
 
 # Social Profiles
