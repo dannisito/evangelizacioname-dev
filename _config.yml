@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+title:              Evangelización Ame
+email:              aministerioevangelizacion@gmail.com
+description:        Somos una comunidad de laicos que a partir del encuentro con Jesús resucitado, Señor y Dios nuestro, tratamos de responder a nuestro compromiso como bautizados a nivel personal y comunitario sirviendo a los demás.
+author:             Lucachaco
 baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://startbootstrap.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   evangelizacioname
+github_username:    evangelizacioname
+facebook_username:  evangelizacioname
 instagram_username:  
 linkedin_username:
 
